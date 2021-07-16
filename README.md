@@ -6,4 +6,4 @@
 
 ### This App was done during Henry's course to learn React state handling
 
-### [deployed app](https://leandrocadena.github.io/Movies-App/)
+### [Deployed app](https://leandrocadena.github.io/Movies-App/)
